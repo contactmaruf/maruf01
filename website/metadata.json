@@ -1,0 +1,6 @@
+{
+  "name": "Maruf Scale Labs",
+  "description": "Premium corporate website for Maruf Scale Labs — an AI-powered digital growth and creative solutions company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
